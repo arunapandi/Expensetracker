@@ -20,7 +20,7 @@ To run this application locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/arunapandi/personal-expense-tracker.git
+   git clone https://github.com/arunapandi/expensetracker.git
    ```
 
 2. Create a virtual environment (optional but recommended):
